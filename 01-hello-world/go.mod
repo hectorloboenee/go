@@ -1,4 +1,4 @@
-module 01-hello-world/main
+module example.com/main
 
 go 1.26.2
 
